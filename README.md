@@ -5,7 +5,9 @@
 Me:
 
 💡 AI Research Scientist.
+
 🚀 Exploring AI tech & human behavior.
+
 ✨ Open to collaborate on AI-driven human solutions.
 
 
