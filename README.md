@@ -2,11 +2,14 @@
 
 ### Hello, World! 🌍
 
-🎯 Pursuing: AI Research Scientist role.
+A little about me:
+```
+🔬 Established as: An AI Research Scientist.
 
-📚 Mastering: AI technologies & human behavior studies.
+📚 Continually exploring: AI technologies & intricacies of human behavior.
 
-🤝 Open for collaborations: Projects using AI for human-centric solutions.
+🤝 Open for collaborations: Projects applying AI to human-centric solutions.
+```
 
 
 <!--
