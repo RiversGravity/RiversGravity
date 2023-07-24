@@ -2,9 +2,7 @@
 
 ### Hello, Universe! 🌌
 
-Me:
-
-💡 AI Research Scientist.
+I am currently:
 
 🚀 Exploring AI tech & human behavior.
 
