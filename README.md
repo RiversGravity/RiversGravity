@@ -2,14 +2,13 @@
 
 ### Hello, World! 🌍
 
-A little about me:
-```
-🔬 Established as: An AI Research Scientist.
+My name is RiversGravity. I am currently:
 
-📚 Continually exploring: AI technologies & intricacies of human behavior.
+🔬 Specializing in AI Research.
 
-🤝 Open for collaborations: Projects applying AI to human-centric solutions.
-```
+📚 Continually exploring AI technologies & intricacies of human behavior.
+
+🤝 Open for collaborations on projects applying AI to human-centric solutions.
 
 
 <!--
