@@ -2,7 +2,7 @@
 
 ### Hello, World! 🌍
 
-My name is RiversGravity. I am currently:
+I am currently:
 
 🔬 Specializing in AI Research.
 
