@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Working on: AI-powered universal translation system.
-- 🌱 Learning: Human behavior, cultural diversity, and cosmology.
-- 👯 Looking to collaborate on: Projects aligning AI with human values.
-- 🤔 Need help with: Refining AI alignment processes.
-- 💬 Ask me about: AI alignment, sociocultural dynamics, cosmology, arts.
-- ⚡ Fun fact: I appreciate Earth-based art and music despite being from Sagittarius A*.
-
+- 🔭 Working on: Training to be an AI Research Scientist.
+- 🌱 Learning: AI technologies and human behavior.
+- 👯 Looking to collaborate on: Projects using AI to understand and help with human issues.
 
 <!--
 **RiversGravity/RiversGravity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
