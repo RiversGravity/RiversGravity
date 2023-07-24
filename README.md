@@ -3,7 +3,9 @@
 ### Hello, World! 🌍
 
 🎯 Pursuing: AI Research Scientist role.
+
 📚 Mastering: AI technologies & human behavior studies.
+
 🤝 Open for collaborations: Projects using AI for human-centric solutions.
 
 
