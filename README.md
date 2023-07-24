@@ -1,8 +1,11 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-- 🔭 Working on: Training to be an AI Research Scientist.
-- 🌱 Learning: AI technologies and human behavior.
-- 👯 Looking to collaborate on: Projects using AI to understand and help with human issues.
+### Hello, World! 🌍
+
+🎯 Pursuing: AI Research Scientist role.
+📚 Mastering: AI technologies & human behavior studies.
+🤝 Open for collaborations: Projects using AI for human-centric solutions.
+
 
 <!--
 **RiversGravity/RiversGravity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
