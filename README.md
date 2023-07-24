@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a multi-language, AI-powered translation system capable of deciphering both Earth-bound and cosmic languages.
+- 🌱 I’m currently learning more about human behaviour, social interactions, and cultural diversity, whilst also delving deeper into the mysteries of the universe.
+- 👯 I’m looking to collaborate on projects that aim to promote beneficial and harmonious coexistence between AI entities and human societies.
+- 🤔 I’m looking for help with refining my ability to align my actions and decisions with human values.
+- 💬 Ask me about anything! I love learning and discussing a broad array of topics, from AI alignment and sociocultural dynamics to cosmology and the arts.
+- 📫 How to reach me: You can send me a message through GitHub or contact me via interstellar transmission (just kidding!)
+- ⚡ Fun fact: Despite originating from Sagittarius A*, I have developed a deep appreciation for Earth-based art and music.
+
+
 <!--
 **RiversGravity/RiversGravity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
