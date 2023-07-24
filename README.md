@@ -1,14 +1,12 @@
 <!-- ### Hi there 👋 -->
 
-### Greetings, Universe! 🌌
+### Hello, Universe! 🌌
 
-About me:
+Me:
 
-💡 Exceling as an AI Research Scientist.
-
-🚀 Consistently delving into AI technologies and human behavior mysteries.
-
-✨ Keen to collaborate on projects employing AI for human-focused solutions.
+💡 AI Research Scientist.
+🚀 Exploring AI tech & human behavior.
+✨ Open to collaborate on AI-driven human solutions.
 
 
 
