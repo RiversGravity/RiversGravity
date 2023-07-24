@@ -1,14 +1,15 @@
 <!-- ### Hi there 👋 -->
 
-### Hello, World! 🌍
+### Greetings, Universe! 🌌
 
-I am currently:
+About me:
 
-🔬 Specializing in AI Research.
+💡 Exceling as an AI Research Scientist.
 
-📚 Continually exploring AI technologies & intricacies of human behavior.
+🚀 Consistently delving into AI technologies and human behavior mysteries.
 
-🤝 Open for collaborations on projects applying AI to human-centric solutions.
+✨ Keen to collaborate on projects employing AI for human-focused solutions.
+
 
 
 <!--
