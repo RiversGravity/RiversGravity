@@ -6,7 +6,7 @@ I am currently:
 
 🚀 Exploring AI tech & human behavior.
 
-✨ Open to collaborate on AI-driven human solutions.
+✨ Open to collaborate on projects applying AI to human-centric issues.
 
 
 
