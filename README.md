@@ -2,11 +2,11 @@
 
 ### Hello, Universe! 🌌
 
-<!--I am currently:
+I am currently:
 
 🚀 Exploring AI tech & human behavior.
 
-✨ Open to collaborate on projects applying AI to human-centric issues. -->
+✨ Open to collaborate on projects applying AI to human-centric issues.
 
 
 
