@@ -4,9 +4,9 @@
 
 I am currently:
 
-🚀 Exploring AI tech & human behavior.
+🚀 Exploring AI & human behavior.
 
-✨ Open to collaborate on projects applying AI to human-centric issues.
+✨ Applying AI to human-centric issues.
 
 
 
