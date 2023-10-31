@@ -21,7 +21,7 @@ I'm dedicated to bridging the loneliness gap in today's digitized age.
 ## 🌐 Connect & Collaborate:
 
 - **LinkedIn**: [LinkedIn Profile Link]
-- **Drop a Mail**: [Email]
+- **Email**: [Email]
 
 ---
 
