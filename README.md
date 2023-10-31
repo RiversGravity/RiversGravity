@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I have a passion for harnessing the power of AI to foster human connections. 
+My passion is harnessing the power of AI to foster human connections. 
 
 I'm on an exciting journey to develop an innovative AI-driven platform that aims to bridge the loneliness gap in our modern world.
 
