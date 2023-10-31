@@ -1,6 +1,6 @@
 # Hello, Worlds! 👋
 
-Harnessing AI to foster genuine human connections is my driving force. 
+Leveraging AI to foster genuine human connections is my driving force. 
 
 I'm dedicated to bridging the loneliness gap in today's digitized age.
 
