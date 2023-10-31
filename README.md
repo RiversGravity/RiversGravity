@@ -4,7 +4,7 @@ Harnessing AI to foster genuine human connections is my driving force.
 
 I'm dedicated to bridging the loneliness gap in today's digitized age.
 
-🚀 **Current Venture**: An AI-powered platform that provides personalized AI interactions, while also encouraging human-to-human connections.
+🚀 **Current Adventure**: An AI-powered platform that provides personalized AI interactions, while also encouraging human-to-human connections.
 
 ## 🔍 Core Objectives:
 
