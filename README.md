@@ -1,5 +1,3 @@
-<!-- ### Hi there 👋 -->
-
 # Hello, World! 👋
 
 I have a passion for harnessing the power of AI to foster human connections. 
@@ -28,5 +26,3 @@ I'm on an exciting journey to develop an innovative AI-driven platform that aims
 ---
 
 Feedback, collaboration requests, or just a simple hello are always welcome! 😄
-
--->
