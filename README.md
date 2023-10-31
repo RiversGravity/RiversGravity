@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello, Worlds! 👋
 
 My passion is harnessing the power of AI to foster human connections. 
 
