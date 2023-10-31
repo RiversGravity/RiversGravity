@@ -4,7 +4,7 @@
 
 I have a passion for harnessing the power of AI to foster human connections. 
 
-I'm currently on an exciting journey to develop an innovative AI-driven platform that aims to bridge the loneliness gap in our modern world.
+I'm on an exciting journey to develop an innovative AI-driven platform that aims to bridge the loneliness gap in our modern world.
 
 🚀 **Current Project**: Building an MVP for a platform that not only provides AI companionship but also catalyzes genuine human-to-human interactions.
 
