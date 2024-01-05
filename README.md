@@ -16,7 +16,7 @@ I'm dedicated to bridging the loneliness gap in today's digitized age.
 
 - **Cloud**: Azure (Emphasizing a deep integration with Azure services)
 - **Primary Language**: Python
-- **Innovation**: Leveraging 'autogen' to streamline and enhance development processes.
+- **Innovation**: Leveraging OpenAI's tools to streamline and enhance development processes.
 
 ## 🌐 Connect & Collaborate:
 
